@@ -17,8 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
           #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
@@ -53,10 +51,10 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 6000
           plugin_habits_facts: yes
-          plugin_habits_from: 20000
-          plugin_habits_languages_limit: 8
+          plugin_habits_from: 200000
+          plugin_habits_languages_limit: 20
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: yes
           plugin_introduction: yes
@@ -68,14 +66,16 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 20
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: TristenHarr/MyPyBuilder, TristenHarr/api2db
           plugin_languages_limit: 50
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 500
+          plugin_languages_recent_days: 6000
           plugin_languages_recent_load: 3000
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 8
           plugin_lines_repositories_limit: 100000
           plugin_lines_sections: base
           plugin_notable: yes
@@ -90,14 +90,4 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://pypi.org/rss/project/pysura/releases.xml
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_sample: 10000
           plugin_traffic: yes
