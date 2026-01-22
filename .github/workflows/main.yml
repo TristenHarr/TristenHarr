@@ -23,6 +23,10 @@ jobs:
           base: header, community, repositories, metadata
           config_timezone: America/Chicago
 
+          # Include contributions to other repos
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+
           # Calendar
           plugin_calendar: yes
           plugin_calendar_limit: 2
@@ -31,12 +35,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Languages - public repos only
+          # Languages - include all contributions
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 15
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 2%
+          plugin_languages_threshold: 1%
+          plugin_languages_categories: markup, programming
+          plugin_languages_indepth: yes
 
           # Lines of code
           plugin_lines: yes
@@ -54,4 +60,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           plugin_notable_types: commit

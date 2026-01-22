@@ -24,11 +24,11 @@ Founder @ Brahmastra Labs | Night owl coding into the wee hours | St. Louis, MO
 
 ### Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [MyPyBuilder](https://github.com/TristenHarr/MyPyBuilder) | Python project scaffolding tool | ![Stars](https://img.shields.io/github/stars/TristenHarr/MyPyBuilder?style=flat-square) |
-| [api2db](https://github.com/TristenHarr/api2db) | Python Data Collection Library | ![Stars](https://img.shields.io/github/stars/TristenHarr/api2db?style=flat-square) |
-| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Rust project @ Brahmastra Labs | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
+| Project | Description | Role | Year | Stars |
+|---------|-------------|------|------|-------|
+| [MyPyBuilder](https://github.com/TristenHarr/MyPyBuilder) | Python project scaffolding tool | Author | 2019 | ![Stars](https://img.shields.io/github/stars/TristenHarr/MyPyBuilder?style=flat-square) |
+| [api2db](https://github.com/TristenHarr/api2db) | Python Data Collection Library | Author | 2021 | ![Stars](https://img.shields.io/github/stars/TristenHarr/api2db?style=flat-square) |
+| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Rust project @ Brahmastra Labs | Author | 2026 | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
 
 ---
 
@@ -36,12 +36,12 @@ Founder @ Brahmastra Labs | Night owl coding into the wee hours | St. Louis, MO
 
 Built data connectors for [Hasura](https://github.com/hasura):
 
-| Connector | Description | Stars |
-|-----------|-------------|-------|
-| [ndc-duckdb](https://github.com/hasura/ndc-duckdb) | DuckDB connector for Hasura DDN | ![Stars](https://img.shields.io/github/stars/hasura/ndc-duckdb?style=flat-square) |
-| [ndc-turso](https://github.com/hasura/ndc-turso) | Turso/LibSQL connector for Hasura DDN | ![Stars](https://img.shields.io/github/stars/hasura/ndc-turso?style=flat-square) |
-| [ndc-qdrant](https://github.com/hasura/ndc-qdrant) | Qdrant vector DB connector for Hasura DDN | ![Stars](https://img.shields.io/github/stars/hasura/ndc-qdrant?style=flat-square) |
-| [ndc-hub](https://github.com/hasura/ndc-hub) | Hasura connector hub | ![Stars](https://img.shields.io/github/stars/hasura/ndc-hub?style=flat-square) |
+| Connector | Description | Role | Year | Stars |
+|-----------|-------------|------|------|-------|
+| [ndc-duckdb](https://github.com/hasura/ndc-duckdb) | DuckDB connector for Hasura DDN | Primary Author | 2023 | ![Stars](https://img.shields.io/github/stars/hasura/ndc-duckdb?style=flat-square) |
+| [ndc-turso](https://github.com/hasura/ndc-turso) | Turso/LibSQL connector for Hasura DDN | Primary Author | 2023 | ![Stars](https://img.shields.io/github/stars/hasura/ndc-turso?style=flat-square) |
+| [ndc-qdrant](https://github.com/hasura/ndc-qdrant) | Qdrant vector DB connector for Hasura DDN | Sole Author | 2023 | ![Stars](https://img.shields.io/github/stars/hasura/ndc-qdrant?style=flat-square) |
+| [ndc-hub](https://github.com/hasura/ndc-hub) | Hasura connector hub | Major Contributor | 2023 | ![Stars](https://img.shields.io/github/stars/hasura/ndc-hub?style=flat-square) |
 
 ---
 
