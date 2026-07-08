@@ -1,8 +1,8 @@
 ## Hey, I'm Tristen Harr
 
-Founder @ Brahmastra Labs | Night owl coding into the wee hours | St. Louis, MO
+Founder @ Datacenter.Dev | Creator of the Logos Programming Language, Theorem Prover, SAT solver, and English compiler. | San Francisco Bay Area
 
-Currently building [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) and the Logos programming language @ [Brahmastra Labs](https://github.com/Brahmastra-Labs).
+Currently building [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) and the Logos programming language @ [Datacenter.Dev](https://github.com/Brahmastra-Labs).
 
 ---
 
@@ -32,7 +32,7 @@ Currently building [logicaffeine](https://github.com/Brahmastra-Labs/logicaffein
 |---------|-------------|----------|------|------|-------|
 | [MyPyBuilder](https://github.com/TristenHarr/MyPyBuilder) | Python project scaffolding tool | Python | Author | 2019 | ![Stars](https://img.shields.io/github/stars/TristenHarr/MyPyBuilder?style=flat-square) |
 | [api2db](https://github.com/TristenHarr/api2db) | Python Data Collection Library | Python | Author | 2021 | ![Stars](https://img.shields.io/github/stars/TristenHarr/api2db?style=flat-square) |
-| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Logos language & tooling @ Brahmastra Labs | Rust | Author | 2026 | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
+| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Logos language & tooling @ Datacenter.Dev | Rust | Author | 2026 | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
 
 ---
 
