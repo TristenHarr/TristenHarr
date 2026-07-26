@@ -32,7 +32,21 @@ Currently building [logicaffeine](https://github.com/Brahmastra-Labs/logicaffein
 |---------|-------------|----------|------|------|-------|
 | [MyPyBuilder](https://github.com/TristenHarr/MyPyBuilder) | Python project scaffolding tool | Python | Author | 2019 | ![Stars](https://img.shields.io/github/stars/TristenHarr/MyPyBuilder?style=flat-square) |
 | [api2db](https://github.com/TristenHarr/api2db) | Python Data Collection Library | Python | Author | 2021 | ![Stars](https://img.shields.io/github/stars/TristenHarr/api2db?style=flat-square) |
-| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Logos language & tooling @ Datacenter.Dev | Rust | Author | 2026 | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
+| [logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) | Logos language & tooling @ Datacenter.Dev — [benchmarks](https://logicaffeine.com/benchmarks) | Rust | Author | 2026 | ![Stars](https://img.shields.io/github/stars/Brahmastra-Labs/logicaffeine?style=flat-square) |
+| [logos-bun](https://github.com/TristenHarr/logos-bun) | Bun rewritten in Logos — a JavaScript runtime whose jsint engine is written in pure English, differential-fuzzed against Node (WIP) | Logos | Author | 2026 | ![Stars](https://img.shields.io/github/stars/TristenHarr/logos-bun?style=flat-square) |
+| [thebay](https://github.com/TristenHarr/thebay) | Founders × events social platform for the SF Bay Area — [live](https://thebay.events/app/); TypeScript today, Logos port planned (WIP) | TypeScript | Author | 2026 | ![Stars](https://img.shields.io/github/stars/TristenHarr/thebay?style=flat-square) |
+| [FriendSlop](https://www.friendslop.dev/) | Browser-native voxel FPS game — Logos port planned (WIP) | Web | Author | 2026 | — |
+
+---
+
+### Formal Mathematics (Lean 4)
+
+Millions of lines of Lean.
+
+| Project | Description | Language | Role | Year | Stars |
+|---------|-------------|----------|------|------|-------|
+| [RiemannHypothesis](https://github.com/TristenHarr/RiemannHypothesis) | Lean 4 / Mathlib formalization of the anti-Herglotz approach to the Riemann Hypothesis | Lean 4 | Author | 2026 | ![Stars](https://img.shields.io/github/stars/TristenHarr/RiemannHypothesis?style=flat-square) |
+| [thegoldenalgebra](https://github.com/TristenHarr/thegoldenalgebra) | Algebra research — LaTeX + Lean 4 formalization | Lean 4 | Author | 2026 | ![Stars](https://img.shields.io/github/stars/TristenHarr/thegoldenalgebra?style=flat-square) |
 
 ---
 
